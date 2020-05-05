@@ -5,7 +5,8 @@ Microbial species in ulcerative colitis
 
 Requirement: Files 
 ------------------
-- microb_abund.csv must be in your working directory
+- microb_abund.csv 
+   - must be in your working directory
 
 Requriement: Libraries
 ----------------------
@@ -15,8 +16,8 @@ Requriement: Libraries
 - plotly
 - statistics
 
-Give yourself permission and then execute
------------------------------------------
+Grant yourself permission and execute
+-------------------------------------
 ```
 chmod 755 PRISM-UC.py
 python ./PRISM-UC.py
@@ -31,7 +32,7 @@ Output: Reference .csv tables
 
 Output: Summary .txt reports 
 ----------------------------
-- fc-statistics.txt
+- fc_statistics.txt
 - PRISM_top_30_RA_microbes_inflammed_uc.txt
 - PRISM_top_30_RA_microbes_lofc_uc.txt
 - PRISM_UC_suspects.txt
@@ -45,8 +46,8 @@ Output: Interactive .html graphs
 
 Association and credits
 -----------------------
-@iupui-soic
-This class project expanded on the research by Franzosa, et al. 
-The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").
+MS Bioinformatics at [IUPUI-SOIC](http://soic.iupui.edu/)<br>
+This class project expanded on the research by Franzosa, et al.<br> 
+The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").<br>
 
 
