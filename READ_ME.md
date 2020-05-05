@@ -10,9 +10,13 @@ Requirement: Files
 Requriement: Libraries
 ----------------------
 -pandas
+
 -numpy
+
 -operator
+
 -plotly
+
 -statistics
 
 Give yourself permission and then execute
