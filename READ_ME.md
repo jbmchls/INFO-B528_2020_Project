@@ -10,25 +10,23 @@ Requirement: Files
 Requriement: Libraries
 ----------------------
 -pandas
-
 -numpy
-
 -operator
-
 -plotly
-
 -statistics
 
-Give yourself permission and then execute
-	chmod 755 PRISM-UC.py
-	python ./PRISM-UC.py
+Give yourself permission and then 
+```
+chmod 755 PRISM-UC.py
+python ./PRISM-UC.py
+```
 
 Output: Reference .csv tables
 -----------------------------
--PRISM_uc_hifc_microb_abund.csv
--PRISM_uc_lofc_microb_abund.csv
--PRISM_control_hifc_microb_abund.csv
--PRISM_control_lofc_microb_abund.csv
+-PRISM_uc_hifc_microb_abund.csv<br>
+-PRISM_uc_lofc_microb_abund.csv<br>
+-PRISM_control_hifc_microb_abund.csv<br>
+-PRISM_control_lofc_microb_abund.csv<br>
 
 Output: Summary .txt reports 
 ----------------------------
