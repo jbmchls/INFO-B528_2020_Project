@@ -9,11 +9,11 @@ Requirement: Files
 
 Requriement: Libraries
 ----------------------
--pandas<br>
--numpy<br>
--operator<br>
--plotly<br>
--statistics<br>
+- pandas
+- numpy
+- operator
+- plotly
+- statistics
 
 Give yourself permission and then execute 
 ```
