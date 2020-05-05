@@ -9,13 +9,13 @@ Requirement: Files
 
 Requriement: Libraries
 ----------------------
--pandas
--numpy
--operator
--plotly
--statistics
+-pandas<br>
+-numpy<br>
+-operator<br>
+-plotly<br>
+-statistics<br>
 
-Give yourself permission and then 
+Give yourself permission and then execute 
 ```
 chmod 755 PRISM-UC.py
 python ./PRISM-UC.py
@@ -30,20 +30,20 @@ Output: Reference .csv tables
 
 Output: Summary .txt reports 
 ----------------------------
--fc-statistics.txt
--PRISM_top_30_RA_microbes_inflammed_uc.txt
--PRISM_top_30_RA_microbes_lofc_uc.txt
--PRISM_UC_suspects.txt
--PRISM_UC_vs_control_ratios.txt
+-fc-statistics.txt<br>
+-PRISM_top_30_RA_microbes_inflammed_uc.txt<br>
+-PRISM_top_30_RA_microbes_lofc_uc.txt<br>
+-PRISM_UC_suspects.txt<br>
+-PRISM_UC_vs_control_ratios.txt<br>
 
 Output: Interactive .html graphs
 -------------------------------- 
--heatmap.html
--avg_RA_plot.html
--ratio_plot.html
+-heatmap.html<br>
+-avg_RA_plot.html<br>
+-ratio_plot.html<br>
 
-@iupui-soic
-This class project expanded on the research by Franzosa, et al. 
-The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").
+@iupui-soic<br>
+This class project expanded on the research by Franzosa, et al. <br>
+The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").<br>
 
 
