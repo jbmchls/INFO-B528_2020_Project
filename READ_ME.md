@@ -15,7 +15,8 @@ Requriement: Libraries
 - plotly
 - statistics
 
-Give yourself permission and then execute 
+Give yourself permission and then execute
+-----------------------------------------
 ```
 chmod 755 PRISM-UC.py
 python ./PRISM-UC.py
@@ -23,27 +24,29 @@ python ./PRISM-UC.py
 
 Output: Reference .csv tables
 -----------------------------
--PRISM_uc_hifc_microb_abund.csv<br>
--PRISM_uc_lofc_microb_abund.csv<br>
--PRISM_control_hifc_microb_abund.csv<br>
--PRISM_control_lofc_microb_abund.csv<br>
+- PRISM_uc_hifc_microb_abund.csv
+- PRISM_uc_lofc_microb_abund.csv
+- PRISM_control_hifc_microb_abund.csv
+- PRISM_control_lofc_microb_abund.csv
 
 Output: Summary .txt reports 
 ----------------------------
--fc-statistics.txt<br>
--PRISM_top_30_RA_microbes_inflammed_uc.txt<br>
--PRISM_top_30_RA_microbes_lofc_uc.txt<br>
--PRISM_UC_suspects.txt<br>
--PRISM_UC_vs_control_ratios.txt<br>
+- fc-statistics.txt
+- PRISM_top_30_RA_microbes_inflammed_uc.txt
+- PRISM_top_30_RA_microbes_lofc_uc.txt
+- PRISM_UC_suspects.txt
+- PRISM_UC_vs_control_ratios.txt
 
 Output: Interactive .html graphs
 -------------------------------- 
--heatmap.html<br>
--avg_RA_plot.html<br>
--ratio_plot.html<br>
+- heatmap.html
+- avg_RA_plot.html
+- ratio_plot.html
 
-@iupui-soic<br>
-This class project expanded on the research by Franzosa, et al. <br>
-The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").<br>
+Association and credits
+-----------------------
+@iupui-soic
+This class project expanded on the research by Franzosa, et al. 
+The original publication is available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6342642/ "NCBI").
 
 
